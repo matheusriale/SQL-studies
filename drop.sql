@@ -1,0 +1,12 @@
+DROP TABLE Prof_Disc;
+DROP TABLE Pre_Requisito;
+DROP TABLE Professor;
+DROP TABLE Aluno_Disc;
+DROP TABLE Dep_Curso;
+DROP TABLE Cur_Disc;
+DROP TABLE Disciplina;
+drop TABLE TelefonesUA;
+DROP TABLE Departamento;
+DROP TABLE Aluno;
+DROP TABLE Curso;
+DROP TABLE Unidade_Academica;
